@@ -1,8 +1,10 @@
 ## Данные: 
-data_internet.shape(149396, 4)  
-data_messages.shape(123036, 3)  
-data_tariffs.shape(2, 8)  
-data_users.shape(500, 8)
+- data_internet.shape(149396, 4): иден    
+- data_messages.shape(123036, 3),  
+- data_calls.shape(202607, 4),
+- data_tariffs.shape(2, 8)    
+- data_users.shape(500, 8): идентификатор, имя, фамилия пользователя, возраст, дата подключения, дата прекращения пользования,
+город, название тарифного плана.
 
 ## Этапы работы:
 - подготовка данных,  
